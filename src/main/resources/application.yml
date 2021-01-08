@@ -4,7 +4,8 @@ spring:
   banner:
     location: classpath:banner.txt
 
-
+server:
+  port: 8081
 #spring:
 #  banner:
 #    image:
